@@ -1,2 +1,2 @@
-# Restaura
-Restaurant wwebsite
+# Restaurant
+Restaurant website
