@@ -5,7 +5,7 @@
   <p align="center">
     An awesome Restaurant for Food lovers!
     <br />
-    <a href="https://github.com/nishaSahuU/marvel](https://nishasahuu.github.io/Restaurant/"><strong>Explore the website»</strong></a>
+    <a href="https://nishasahuu.github.io/Restaurant/"><strong>Explore the website»</strong></a>
     </p>
 </div>
 
